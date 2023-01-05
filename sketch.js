@@ -35,7 +35,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background(20);
 
 
   ellipse(ball.position.x,ball.position.y,radius,radius);
